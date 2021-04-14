@@ -5,7 +5,6 @@ module.exports = {
     colors: {
     },
     fontFamily: {
-      title: ['Saira']
     },
     extend: {
     },
