@@ -1,5 +1,5 @@
 module.exports = {
-  purge: ['./index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
+  purge: ['./index.html', './assets/index.css', './src/**/*.{vue,js,ts,jsx,tsx}'],
   darkMode: false, // or 'media' or 'class'
   theme: {
     colors: {
@@ -7,10 +7,14 @@ module.exports = {
     fontFamily: {
     },
     extend: {
+      margin: {
+        '-ts': '-0.2rem',
+      }
     },
   },
   variants: {
-    extend: {},
+    extend: {
+    },
   },
   plugins: [],
 }

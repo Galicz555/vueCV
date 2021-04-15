@@ -22,6 +22,8 @@
 						class="social-icon"
 						href="https://www.linkedin.com/in/mig555/"
 						target="_blank"
+						rel="noreferrer"
+						aria-label="Linkedin"
 					>
 						<i class="fab fa-linkedin-in"></i>
 					</a>
@@ -29,6 +31,8 @@
 						class="social-icon"
 						href="https://github.com/Galicz555"
 						target="_blank"
+						rel="noreferrer"
+						aria-label="Github"
 					>
 						<i class="fab fa-github"></i>
 					</a>
@@ -36,6 +40,8 @@
 						class="social-icon"
 						href="https://www.facebook.com/mihaly.galicz/"
 						target="_blank"
+						rel="noreferrer"
+						aria-label="Facebook"
 					>
 						<i class="fab fa-facebook-f"></i>
 					</a>
@@ -78,7 +84,7 @@
 						<div class="subheading mb-3">Junior software developer</div>
 					</div>
 					<div class="flex-shrink-0">
-						<span class="text-primary">August 2006 - May 2010</span>
+						<span class="text-primary">Augusztus 2006 - Május 2010</span>
 					</div>
 				</div>
 				<div
@@ -93,15 +99,15 @@
 					</div>
 				</div>
 				<div
-					class="d-flex flex-column flex-md-row justify-content-between mb-5"
+					class="grid grid-cols-1 grid-rows-2 md:grid-cols-3 md:grid-rows-1 gap-4 mb-5"
 				>
-					<div class="flex-grow-1">
+					<div class="col-span-2">
 						<h3 class="mb-0">
-							Bláthy Ottó Titusz Szakközépiskola és Gimnázium
+							Bláthy Ottó Titusz Informatikai Szakközépiskola és Gimnázium
 						</h3>
 					</div>
-					<div class="flex-shrink-0">
-						<span class="text-primary">August 2004 - May 2008</span>
+					<div class="flex md:justify-end">
+						<span class="text-primary">Augusztus 2004 - Május 2008</span>
 					</div>
 				</div>
 			</div>
@@ -110,23 +116,21 @@
 		<!-- Skills-->
 		<section class="resume-section" id="skills">
 			<div class="resume-section-content">
-				<h2 class="mb-5">Skills</h2>
-				<div class="subheading mb-3">Programming Languages & Tools</div>
+				<h2 class="mb-5">Képességek</h2>
+				<div class="subheading mb-3">Programozási nyelvek & Eszközök</div>
 				<ul class="list-inline dev-icons">
 					<li class="list-inline-item"><i class="fab fa-html5"></i></li>
 					<li class="list-inline-item"><i class="fab fa-css3-alt"></i></li>
 					<li class="list-inline-item"><i class="fab fa-js-square"></i></li>
 					<li class="list-inline-item"><i class="fab fa-angular"></i></li>
-					<li class="list-inline-item"><i class="fab fa-react"></i></li>
 					<li class="list-inline-item"><i class="fab fa-node-js"></i></li>
-					<li class="list-inline-item"><i class="fab fa-sass"></i></li>
-					<li class="list-inline-item"><i class="fab fa-less"></i></li>
-					<li class="list-inline-item"><i class="fab fa-wordpress"></i></li>
-					<li class="list-inline-item"><i class="fab fa-gulp"></i></li>
-					<li class="list-inline-item"><i class="fab fa-grunt"></i></li>
+					<li class="list-inline-item"><i class="fab fa-sass"></i></li>	
 					<li class="list-inline-item"><i class="fab fa-npm"></i></li>
+					<li class="list-inline-item"><i class="fab fa-bootstrap"></i></li>
+					<li class="list-inline-item"><img class="-mb-ts" src="../assets/img/ts.svg" alt="" width="40px" height="40px" ></li>
+					<li class="list-inline-item"><img class="-mb-3" src="../assets/img/mysql.svg" alt="" width="56px" height="56px" ></li>
 				</ul>
-				<div class="subheading mb-3">Workflow</div>
+				<div class="subheading mb-3">Munkafolyamat</div>
 				<ul class="fa-ul mb-0">
 					<li>
 						<span class="fa-li"><i class="fas fa-check"></i></span>
@@ -151,18 +155,17 @@
 		<!-- Interests-->
 		<section class="resume-section" id="interests">
 			<div class="resume-section-content">
-				<h2 class="mb-5">Interests</h2>
+				<h2 class="mb-5">Érdeklődés</h2>
 				<p>
-					Apart from being a web developer, I enjoy most of my time being
-					outdoors. In the winter, I am an avid skier and novice ice climber.
-					During the warmer months here in Colorado, I enjoy mountain biking,
-					free climbing, and kayaking.
+					Web fejlesztésen kívül, ha kimozdulok akkor többnyire sportolni
+					szeretek. Ezek közül a labdajátékokat kedvelem leginkább, de
+					szívesen mászok falat, futok, úszok vagy csak kondizom.
 				</p>
 				<p class="mb-0">
-					When forced indoors, I follow a number of sci-fi and fantasy genre
-					movies and television shows, I am an aspiring chef, and I spend a
-					large amount of my free time exploring the latest technology
-					advancements in the front-end web development world.
+					Amennyiben úgy adódik, hogy itthon maradok, akkor örömmel játszom
+					Dungeons&Dragons-t, vagy League of Legends-et. Szívesen olvasok
+					fantasy, illetve sci-fi regényeket és nézek olyan videókat a neten
+					amik fejlesztik tudásomat a programozás terén.
 				</p>
 			</div>
 		</section>
@@ -176,56 +179,7 @@
 						<span class="fa-li"
 							><i class="fas fa-trophy text-warning"></i
 						></span>
-						Google Analytics Certified Developer
-					</li>
-					<li>
-						<span class="fa-li"
-							><i class="fas fa-trophy text-warning"></i
-						></span>
-						Mobile Web Specialist - Google Certification
-					</li>
-					<li>
-						<span class="fa-li"
-							><i class="fas fa-trophy text-warning"></i
-						></span>
-						1
-						<sup>st</sup>
-						Place - University of Colorado Boulder - Emerging Tech Competition
-						2009
-					</li>
-					<li>
-						<span class="fa-li"
-							><i class="fas fa-trophy text-warning"></i
-						></span>
-						1
-						<sup>st</sup>
-						Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI
-						Design Category)
-					</li>
-					<li>
-						<span class="fa-li"
-							><i class="fas fa-trophy text-warning"></i
-						></span>
-						2
-						<sup>nd</sup>
-						Place - University of Colorado Boulder - Emerging Tech Competition
-						2008
-					</li>
-					<li>
-						<span class="fa-li"
-							><i class="fas fa-trophy text-warning"></i
-						></span>
-						1
-						<sup>st</sup>
-						Place - James Buchanan High School - Hackathon 2006
-					</li>
-					<li>
-						<span class="fa-li"
-							><i class="fas fa-trophy text-warning"></i
-						></span>
-						3
-						<sup>rd</sup>
-						Place - James Buchanan High School - Hackathon 2005
+						Only military stuff. (yet)
 					</li>
 				</ul>
 			</div>
