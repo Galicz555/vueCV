@@ -12,10 +12,9 @@
 					<a href="mailto:galicz555@gmail.com">galicz555@gmail.com</a>
 				</div>
 				<p class="lead mb-5">
-					I am experienced in leveraging agile frameworks to provide a robust
-					synopsis for high level overviews. Iterative approaches to corporate
-					strategy foster collaborative thinking to further the overall value
-					proposition.
+					Gyakorlott vagyok az agilis módszertan valamint SCRUM alkalmazásában, hogy
+					olyan iteratív megközelítést alakítsak ki, mely biztosítja a felhasználói igények
+					megvalósítását és ösztönzi a céges stratégia gondolkodást.
 				</p>
 				<div class="social-icons">
 					<a
@@ -60,13 +59,29 @@
 						<h3 class="mb-0">Junior Frontend Web Developer</h3>
 						<div class="subheading mb-3">Adevinta · Jófogás</div>
 						<p>
-							Landing page készítésén át, lighthouse metrikák feljavításával,
-							valamint adatgyűjtéssel, és egyéb feature-k fejlesztésével
-							foglalkoztam.
+							Felhasználó barát web oldal fejlesztése,
+							valamint landing page készítése.
+						</p>
+						<p>
+							Bugok javítása már létező weboldalon, és olyan fejlesztések bevezetése
+							amik nagyban hozzájárultak az oldal sebességéhez.
+						</p>
+						<p>
+							A/B tesztelés, továbbá felhasználó aktiváló platform, és tag manager alkalmazása. 
 						</p>
 					</div>
 					<div class="flex-shrink-0">
 						<span class="text-primary">Március 2020 - 2021</span>
+					</div>
+				</div>
+				<div
+					class="d-flex flex-column flex-md-row justify-content-between mb-5"
+				>
+					<div class="flex-grow-1">
+						<h3 class="mb-0">Military</h3>
+					</div>
+					<div class="flex-shrink-0">
+						<span class="text-primary">Augusztus 2012 - Augusztus 2019</span>
 					</div>
 				</div>
 			</div>
@@ -84,7 +99,7 @@
 						<div class="subheading mb-3">Junior software developer</div>
 					</div>
 					<div class="flex-shrink-0">
-						<span class="text-primary">Augusztus 2006 - Május 2010</span>
+						<span class="text-primary">Szeptember 2020 - Január 2021</span>
 					</div>
 				</div>
 				<div
