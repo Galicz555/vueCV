@@ -188,13 +188,19 @@
 		<!-- Awards-->
 		<section class="resume-section" id="awards">
 			<div class="resume-section-content">
-				<h2 class="mb-5">Awards & Certifications</h2>
+				<h2 class="mb-5">Kitüntetések & Érdemek</h2>
 				<ul class="fa-ul mb-0">
 					<li>
 						<span class="fa-li"
 							><i class="fas fa-trophy text-warning"></i
 						></span>
-						Only military stuff. (yet)
+						Katonai dolgok
+					</li>
+					<li>
+						<span class="fa-li"
+							><i class="fas fa-trophy text-warning"></i
+						></span>
+						Bláthy díj nyertes (2008)
 					</li>
 				</ul>
 			</div>

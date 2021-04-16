@@ -12,6 +12,7 @@
 							<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Tanulmányok</a></li>
 							<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Képességek</a></li>
 							<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Érdeklődés</a></li>
+							<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Kitüntetések és érdemek</a></li>
 					</ul>
 			</div>
 	</nav>
