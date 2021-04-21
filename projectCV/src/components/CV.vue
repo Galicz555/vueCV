@@ -12,9 +12,10 @@
 					<a href="mailto:galicz555@gmail.com">galicz555@gmail.com</a>
 				</div>
 				<p class="lead mb-5">
-					Gyakorlott vagyok az agilis módszertan valamint SCRUM alkalmazásában, hogy
-					olyan iteratív megközelítést alakítsak ki, mely biztosítja a felhasználói igények
-					megvalósítását és ösztönzi a céges stratégia gondolkodást.
+					Gyakorlott vagyok az agilis módszertan, valamint SCRUM alkalmazásában,
+					hogy olyan iteratív megközelítést alakítsak ki, mely biztosítja a
+					felhasználói igények megvalósítását és ösztönzi a céges stratégia
+					gondolkodást.
 				</p>
 				<div class="social-icons">
 					<a
@@ -59,15 +60,16 @@
 						<h3 class="mb-0">Junior Frontend Web Developer</h3>
 						<div class="subheading mb-3">Adevinta · Jófogás</div>
 						<p>
-							Felhasználó barát web oldal fejlesztése,
-							valamint landing page készítése.
+							Felhasználó barát web oldal fejlesztése, valamint landing page
+							készítése.
 						</p>
 						<p>
-							Bugok javítása már létező weboldalon, és olyan fejlesztések bevezetése
-							amik nagyban hozzájárultak az oldal sebességéhez.
+							Bugok javítása már létező weboldalon és olyan fejlesztések
+							bevezetése amik nagyban hozzájárultak az oldal sebességéhez.
 						</p>
 						<p>
-							A/B tesztelés, továbbá felhasználó aktiváló platform, és tag manager alkalmazása. 
+							A/B tesztelés, továbbá felhasználó aktiváló platform és tag
+							manager alkalmazása.
 						</p>
 					</div>
 					<div class="flex-shrink-0">
@@ -139,11 +141,15 @@
 					<li class="list-inline-item"><i class="fab fa-js-square"></i></li>
 					<li class="list-inline-item"><i class="fab fa-angular"></i></li>
 					<li class="list-inline-item"><i class="fab fa-node-js"></i></li>
-					<li class="list-inline-item"><i class="fab fa-sass"></i></li>	
+					<li class="list-inline-item"><i class="fab fa-sass"></i></li>
 					<li class="list-inline-item"><i class="fab fa-npm"></i></li>
 					<li class="list-inline-item"><i class="fab fa-bootstrap"></i></li>
-					<li class="list-inline-item"><img class="-mb-ts" src="../assets/img/ts.svg" alt="" width="40px" height="40px" ></li>
-					<li class="list-inline-item"><img class="-mb-3" src="../assets/img/mysql.svg" alt="" width="56px" height="56px" ></li>
+					<li class="list-inline-item">
+						<img class="-mb-ts img-fluid" src="../assets/img/ts.svg" alt="" />
+					</li>
+					<li class="list-inline-item">
+						<img class="-mb-3 img-fluid" src="../assets/img/mysql.svg" alt="" />
+					</li>
 				</ul>
 				<div class="subheading mb-3">Munkafolyamat</div>
 				<ul class="fa-ul mb-0">
@@ -172,15 +178,15 @@
 			<div class="resume-section-content">
 				<h2 class="mb-5">Érdeklődés</h2>
 				<p>
-					Web fejlesztésen kívül, ha kimozdulok akkor többnyire sportolni
-					szeretek. Ezek közül a labdajátékokat kedvelem leginkább, de
-					szívesen mászok falat, futok, úszok vagy csak kondizom.
+					Web fejlesztésen kívül, szívesen sportolok, leginkább a labdajátékokat
+					kedvelem, de szívesen mászok falat, futok, úszok vagy látogatok
+					konditermeket.
 				</p>
 				<p class="mb-0">
-					Amennyiben úgy adódik, hogy itthon maradok, akkor örömmel játszom
-					Dungeons&Dragons-t, vagy League of Legends-et. Szívesen olvasok
-					fantasy, illetve sci-fi regényeket és nézek olyan videókat a neten
-					amik fejlesztik tudásomat a programozás terén.
+					Amennyiben itthon töltök el időt, szívesen játszom Dungeons&Dragons-t,
+					vagy League of Legends-et és más RPG témájú játékokat. Előszerettel
+					olvasok fantasy és sci-fi regényeket, illetve nézek olyan videókat
+					amelyek fejlesztik tudásomat a programozás terén.
 				</p>
 			</div>
 		</section>
@@ -194,7 +200,7 @@
 						<span class="fa-li"
 							><i class="fas fa-trophy text-warning"></i
 						></span>
-						Katonai dolgok
+						Katonai kitüntetések
 					</li>
 					<li>
 						<span class="fa-li"
