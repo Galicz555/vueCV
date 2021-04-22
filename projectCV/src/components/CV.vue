@@ -58,7 +58,7 @@
 				>
 					<div class="flex-grow-1">
 						<h3 class="mb-0">Junior Frontend Web Developer</h3>
-						<div class="subheading mb-3">Adevinta · Jófogás</div>
+						<div class="subheading mb-3">Adevinta Classified Media Hungary Kft.</div>
 						<p>
 							Felhasználó barát web oldal fejlesztése, valamint landing page
 							készítése.
